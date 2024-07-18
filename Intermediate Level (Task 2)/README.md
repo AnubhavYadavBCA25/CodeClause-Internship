@@ -7,7 +7,6 @@
 - Project Level: Intermediate Level
 
 #### Project Summary
-Project Summary:
 This project aims to predict employee attrition using data science techniques. By analyzing various factors and patterns, we can gain insights into the likelihood of employees leaving the organization. This information can help companies take proactive measures to retain valuable talent and improve employee satisfaction.
 
 #### Project Detials:
