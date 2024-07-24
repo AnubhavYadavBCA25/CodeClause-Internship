@@ -15,4 +15,7 @@ to predict the risk of heart disease.
 - **Description:** Create a user-friendly interface for inputting health data and implement a model
 (e.g., Random Forest) for risk assessment.
 - **Technologies Used:** Python, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn and Streamlit (UI).
-- **What We Learn:** UI design for health applications, cardiovascular risk factors, classificatio
+- **What We Learn:** UI design for health applications, cardiovascular risk factors, classification.
+
+#### Project Web Application:
+Web App Link: 
