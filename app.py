@@ -62,7 +62,7 @@ def Visualizations():
 
     # Load the dataset
     st.subheader("Dataset", divider='rainbow')
-    df = pd.read_csv(r"Golden Level (Task 3)\notebooks\data\heart.csv")
+    df = pd.read_csv("Golden Level (Task 3)/notebooks/data/heart.csv")
     st.dataframe(df)
     st.write("*Note: You can download the dataset by clicking on the 'Download as CSV' button on upper right hand side.*")
     st.divider()
@@ -137,8 +137,8 @@ def Prediction():
     st.divider()
 
     # Load the model and scaler
-    model = joblib.load(r"Golden Level (Task 3)\notebooks\artifacts\rfc_model.pkl")
-    scaler = joblib.load(r"Golden Level (Task 3)\notebooks\artifacts\scaler.pkl")
+    model = joblib.load("Golden Level (Task 3)/notebooks/artifacts/rfc_model.pkl")
+    scaler = joblib.load("Golden Level (Task 3)/notebooks/artifacts/scaler.pkl")
     
     # Input Form
     st.subheader("Input Form", divider='rainbow')    
