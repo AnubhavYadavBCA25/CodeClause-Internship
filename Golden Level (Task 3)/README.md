@@ -18,4 +18,4 @@ to predict the risk of heart disease.
 - **What We Learn:** UI design for health applications, cardiovascular risk factors, classification.
 
 #### Project Web Application:
-Web App Link: 
+Web App Link: https://cardio-predict.streamlit.app/
